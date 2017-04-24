@@ -1,0 +1,30 @@
+{
+  "name": "kkjs",
+  "version": "1.2.21",
+  "kkVersion": "5.2.6",
+  "updatedAt": 1493024790045,
+  "description": "Javascript SDK for web apps buliding for KK",
+  "main": "kk.js",
+  "readme": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landray/kk-js-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/landray/kk-js-sdk/issues"
+  },
+  "keywords": [
+    "kk",
+    "js",
+    "sdk",
+    "js",
+    "sdk",
+    "web",
+    "app"
+  ],
+  "author": {
+    "company": "深圳市蓝凌软件股份有限公司",
+    "developer": "Landray KK Team"
+  },
+  "license": "MIT"
+}
