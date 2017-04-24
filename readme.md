@@ -5,4 +5,4 @@ KK JS SDK是KK面向网页开发者提供的基于微信内的网页开发工具
 
 ## 使用说明
 
-详细文档说明，请[点此查阅](kk5.landray.com.cn:6789/jssdk/index.html).
+详细文档说明，请[点此查阅](http://kk5.landray.com.cn:6789/jssdk/index.html).
