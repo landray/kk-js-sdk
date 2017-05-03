@@ -1,8 +1,8 @@
 {
   "name": "kkjs",
-  "version": "1.2.24",
+  "version": "1.2.25",
   "kkVersion": "5.2.6",
-  "updatedAt": 1493777954094,
+  "updatedAt": 1493778982579,
   "description": "Javascript SDK for web apps buliding for KK",
   "main": "kk.js",
   "readme": "readme.md",
